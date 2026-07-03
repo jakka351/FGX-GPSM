@@ -2,7 +2,7 @@
 Breakdown of FGX GPSM - CAN and GPS signals.
   
 <p align="right">
-<img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/24f520b4-f9d2-40ce-8fdd-824f464b9d59" />
+<img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/ff021435-63fa-4266-9ce8-93e90c7f595b" />
 </p>
   
 ### Controller Details
