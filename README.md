@@ -1,9 +1,12 @@
+ 
+# FGX-GPSM
+Breakdown of FGX GPSM - CAN and GPS signals.
+*Repurposing these units for use in another vehicle is quite a simple job - heres the information that lets you do it.*
+
+
 <p align="right">
 <img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/ff021435-63fa-4266-9ce8-93e90c7f595b" />
 </p>
-  
-# FGX-GPSM
-Breakdown of FGX GPSM - CAN and GPS signals.
   
 ### Controller Details
 **Module:** GPSM
