@@ -1,9 +1,9 @@
-# FGX-GPSM
-Breakdown of FGX GPSM - CAN and GPS signals.
-  
 <p align="right">
 <img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/ff021435-63fa-4266-9ce8-93e90c7f595b" />
 </p>
+  
+# FGX-GPSM
+Breakdown of FGX GPSM - CAN and GPS signals.
   
 ### Controller Details
 **Module:** GPSM
