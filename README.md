@@ -8,6 +8,7 @@ Breakdown of FGX GPSM - CAN and GPS signals.
 </p>
   
 ## Controller Details  
+
 **Module:** GPSM  
 **Part No:** ER2T-19H464-AE  
 **Hardware Id:** BQ3VJ    
